@@ -8,7 +8,8 @@
 
 #include "decoder.h"
 
-int decoder()
+void decoder()
 {
     printf("helow world!!!\n");
 }
+

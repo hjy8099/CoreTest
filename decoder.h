@@ -10,5 +10,5 @@
 #define ____decoder__
 
 #include <stdio.h>
-
+void decoder();
 #endif /* defined(____decoder__) */
