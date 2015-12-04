@@ -11,7 +11,7 @@
 void decoder()
 {
     int i,j,k=0;
-    for( i=o; i<100; i++)
+    for( i=0; i<100; i++)
     {
         printf("helow world222!!!\n");
 }    
