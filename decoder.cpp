@@ -10,11 +10,11 @@
 
 void decoder()
 {
-    int i,j,k=0;
+    int i,j,k;
     
     for( i=0; i<100; i++)
     {
         printf("helow world222!!!\n");
-}    
+    }    
 }
 
