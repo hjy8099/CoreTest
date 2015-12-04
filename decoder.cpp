@@ -10,8 +10,9 @@
 
 void decoder()
 {
-    int i,j,k;
-    
+    int i =0;
+    int j[10];
+    j[10] = -1;
     for( i=0; i<100; i++)
     {
         printf("helow world222!!!\n");
